@@ -1,0 +1,6 @@
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitsaladLibrary\bin\Debug\FruitsaladLibrary.dll
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitsaladLibrary\bin\Debug\FruitsaladLibrary.pdb
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitsaladLibrary\obj\Debug\FruitsaladLibrary.csproj.AssemblyReference.cache
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitsaladLibrary\obj\Debug\FruitsaladLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitsaladLibrary\obj\Debug\FruitsaladLibrary.dll
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitsaladLibrary\obj\Debug\FruitsaladLibrary.pdb

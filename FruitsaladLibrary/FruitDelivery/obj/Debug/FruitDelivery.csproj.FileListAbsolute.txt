@@ -1,0 +1,10 @@
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\obj\Debug\FruitDelivery.csproj.AssemblyReference.cache
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\obj\Debug\FruitDelivery.csproj.CoreCompileInputs.cache
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\bin\Debug\FruitDelivery.exe.config
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\bin\Debug\FruitDelivery.exe
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\bin\Debug\FruitDelivery.pdb
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\bin\Debug\FruitsaladLibrary.dll
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\bin\Debug\FruitsaladLibrary.pdb
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\obj\Debug\FruitDel.D7FB51CC.Up2Date
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\obj\Debug\FruitDelivery.exe
+C:\Users\ANV185\Documents\GitHub\FruitSalad\FruitsaladLibrary\FruitDelivery\obj\Debug\FruitDelivery.pdb
